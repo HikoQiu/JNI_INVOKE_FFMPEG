@@ -48,6 +48,10 @@
 
 #include "libswresample/swresample.h"
 
+// 定义android log方法 & define
+#include <android/log.h>
+#include "logjam.h"
+
 #define VSYNC_AUTO       -1
 #define VSYNC_PASSTHROUGH 0
 #define VSYNC_CFR         1
