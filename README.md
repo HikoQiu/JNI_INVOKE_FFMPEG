@@ -6,7 +6,7 @@ Use ffmpeg to deal with videos in android.
 
 ### 一，步骤概览
 
- - 1, 准备开发环境和工具；其中包括：Android开发环境、安装NDK。
+ - 1, 准备开发环境和工具；其中包括：Android开发环境(Eclipse)、安装NDK。
  - 2, 下载并解压ffmpeg源代码
  - 3, 编译ffmpeg源码，生成类文件(*.so)供后面Andoid项目使用
  - 4, 创建Android项目(MyJni)并配置JNI开发的相关文件
