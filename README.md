@@ -1,6 +1,6 @@
 # JNI_INVOKE_FFMPEG
 
-Use ffmpeg to deal with videos in android.
+Use Ffmpeg to deal with videos in android.
 
 本人实验过程步骤：
 
